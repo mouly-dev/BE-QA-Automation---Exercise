@@ -16,7 +16,7 @@ import org.testng.annotations.AfterSuite;
 
 public class RunTests {
 
-  Logger logger = Logger.getLogger("outLogs");  
+  Logger logger = Logger.getLogger("outLogs");
   FileHandler fileHandler;  
   
   @BeforeSuite
